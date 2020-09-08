@@ -141,7 +141,7 @@ var l_messages = [
 	""When in doubt, open fire." - Stormtrooper axiom.",
 	""The Rank Rule: those who have the Rank make the rules." - Old military truism.",
 	""Combat-ready units can't pass inspection. Inspection-ready units don't pass combat." - Old trooper's truism.",
-	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate.",
+	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate."
 ];
 
 // Random message order?
