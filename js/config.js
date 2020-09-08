@@ -22,12 +22,12 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Imperial RP Classic | Serious RP | Need Staff/CO's";
 
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -72,9 +72,13 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"picture1.png",
+	"picture2.png",
+	"picture3.png",
+	"picture4.png",
+	"picture5.png",
+	"picture6.png",
+	"picture7.png"
 ];
 
 // (Image-background only)
@@ -94,7 +98,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = false;
+var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
@@ -102,7 +106,7 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
@@ -113,10 +117,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{ogg: "hannas_music.ogg", name: "Imperial March"},
 ];
 
 // Random music order?
@@ -133,9 +134,14 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	""In half an hour i can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy." - Grand Admiral Fenrik",
+	""Plans change on contanct with the enemy." - Widely known military maxim.",
+	""You can win without fighting, but it's harder to do; the enemy is rarely so cooperative." - Grand General Tagge to a subordinate.",
+	""It's easier to expend material in combat than to fill out fatality datawork." - Irritated sergeant to an equally irritated quartermaster.",
+	""When in doubt, open fire." - Stormtrooper axiom.",
+	""The Rank Rule: those who have the Rank make the rules." - Old military truism.",
+	""Combat-ready units can't pass inspection. Inspection-ready units don't pass combat." - Old trooper's truism.",
+	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate.",
 ];
 
 // Random message order?
