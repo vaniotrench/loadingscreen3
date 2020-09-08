@@ -137,11 +137,6 @@ var l_messages = [
 	""In half an hour i can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy." - Grand Admiral Fenrik",
 	""Plans change on contanct with the enemy." - Widely known military maxim.",
 	""You can win without fighting, but it's harder to do; the enemy is rarely so cooperative." - Grand General Tagge to a subordinate.",
-	""It's easier to expend material in combat than to fill out fatality datawork." - Irritated sergeant to an equally irritated quartermaster.",
-	""When in doubt, open fire." - Stormtrooper axiom.",
-	""The Rank Rule: those who have the Rank make the rules." - Old military truism.",
-	""Combat-ready units can't pass inspection. Inspection-ready units don't pass combat." - Old trooper's truism.",
-	""Rebels learn too." - General Veers, Commander Blizzard Force, cautioning a subordinate."
 ];
 
 // Random message order?
