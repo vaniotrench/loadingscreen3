@@ -119,7 +119,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "pure_silence.ogg", name: "10 minutes of pure silence"},
+	{ogg: "loading_music.ogg", name: "Star Wars: The Clones Music"},
 ];
 
 // Random music order?
