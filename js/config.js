@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Imperial RP Classic | Serious RP | Need Staff/CO's";
+var l_serverName = "Empirical Clone Wars RP";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -78,7 +78,9 @@ var l_bgImages = [
 	"picture4.png",
 	"picture5.png",
 	"picture6.png",
-	"picture7.png"
+	"picture7.png",
+	"picture8.png",
+	"picture9.png"
 ];
 
 // (Image-background only)
@@ -136,12 +138,12 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"In half an hour i can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy. - Grand Admiral Fenrik",
 	"Plans change on contanct with the enemy. - Widely known military maxim.",
-	"You can win without fighting, but it's harder to do; the enemy is rarely so cooperative. - Grand General Tagge to a subordinate.",
+	"Today we fight for more than the Republic. Today we fight for all our brothers back home.” – Captain Rex",
 	"It's easier to expend material in combat than to fill out fatality datawork. - Irritated sergeant to an equally irritated quartermaster.",
-	"When in doubt, open fire. - Stormtrooper axiom.",
+	"A soldier’s most powerful weapon is courage",
 	"The Rank Rule: those who have the Rank make the rules. - Old military truism.",
 	"Combat-ready units can't pass inspection. Inspection-ready units don't pass combat. - Old trooper's truism.",
-	"Rebels learn too. - General Veers, Commander Blizzard Force, cautioning a subordinate."
+	"Rookies: The best confidence builder is experience."
 ];
 
 // Random message order?
