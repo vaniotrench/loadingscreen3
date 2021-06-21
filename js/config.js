@@ -80,7 +80,13 @@ var l_bgImages = [
 	"picture6.png",
 	"picture7.png",
 	"picture8.png",
-	"picture9.png"
+	"picture9.png",
+	"picture10.png",
+	"picture11.png",
+	"picture12.png",
+	"picture13.png",
+	"picture14.png",
+	"picture15.png
 ];
 
 // (Image-background only)
@@ -119,7 +125,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "loading_music.ogg", name: "Star Wars: The Clones Music"},
+	{ogg: "loading_music.ogg", name: "Final Order Theme"},
 ];
 
 // Random music order?
@@ -136,14 +142,15 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"In half an hour i can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy. - Grand Admiral Fenrik",
+	"In half an hour I can put together a stike team, capable of succeeding at any mission, under any circumstances, anywhere in the galaxy. - Grand Admiral Fenrik",
 	"Plans change on contanct with the enemy. - Widely known military maxim.",
-	"Today we fight for more than the Republic. Today we fight for all our brothers back home.” – Captain Rex",
+	"To defeat an enemy, you must know them. - Grand Admiral Thrawn",
 	"It's easier to expend material in combat than to fill out fatality datawork. - Irritated sergeant to an equally irritated quartermaster.",
 	"A soldier’s most powerful weapon is courage",
 	"The Rank Rule: those who have the Rank make the rules. - Old military truism.",
 	"Combat-ready units can't pass inspection. Inspection-ready units don't pass combat. - Old trooper's truism.",
-	"Rookies: The best confidence builder is experience."
+	"Rookies: The best confidence builder is experience.",
+	"I want solutions not excuses. - Supreme Moff Pitchkins"
 ];
 
 // Random message order?
