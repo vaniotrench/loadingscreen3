@@ -125,7 +125,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "loading_music.ogg", name: "Final Order Theme"},
+	{ogg: "loading_music.ogg", name: "Galactic Empire Theme"},
 ];
 
 // Random music order?
@@ -134,7 +134,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 // Enable custom messages?
 // 'true' or 'false'
